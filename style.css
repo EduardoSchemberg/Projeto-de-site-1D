@@ -1,4 +1,10 @@
 header{
-    background-color: aqua;
-    color: aliceblue;
+    background-color: rgb(20, 71, 148);
+    color:azure;
+    text-align: center;
+}
+main{
+    background-color: rgb(245, 241, 237);
+    color: rgb(8, 40, 180);
+    text-align: center;
 }
